@@ -13,6 +13,7 @@ vue-resource 进行数据的请求 https://github.com/pagekit/vue-resource
 ## 目录介绍
 
 ``` bash
+one
 sell{
     build{  //和config一样，是webpack配置相关文件
         dev-server.js  //webpack打包入口文件，若无此文件，直接在webpack.dev.conf.js中设置
